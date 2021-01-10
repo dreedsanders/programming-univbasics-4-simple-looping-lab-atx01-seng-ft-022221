@@ -50,9 +50,7 @@ output_array(quote)
 numstring = [5, 4, 3, 2, 1]
 
 def return_string_array(array)
-  count = 0 
   puts array[count].to_s
-    count += 1 
 end
 
 puts return_string_array(numstring)  
