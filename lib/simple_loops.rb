@@ -45,4 +45,16 @@ def loop_message_n_times(message)
  end
  
 output_array(quote)
+
+numstring = [5, 4, 3, 2, 1]
+
+def return_string_array(array)
+  counter = 0 
+  while array[counter] do
+    puts array[counter]
+    counter += 1 
+  end
+end
+
+return_string_array
   
