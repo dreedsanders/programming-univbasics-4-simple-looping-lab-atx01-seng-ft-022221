@@ -22,5 +22,6 @@ def loop_message_n_times(message)
  end
  
  puts loop_message_n_times(message_1)
+ puts loop_message_n_times(message_2)
  
   
