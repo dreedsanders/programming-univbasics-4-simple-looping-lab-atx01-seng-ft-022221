@@ -52,7 +52,7 @@ numstring = 5, 4, 3, 2, 1
 def return_string_array(array)
   counter = 0 
   while array[counter] do
-    puts (array).to_s
+    puts (array)[counter].to_s
     counter += 1 
   end
 end
