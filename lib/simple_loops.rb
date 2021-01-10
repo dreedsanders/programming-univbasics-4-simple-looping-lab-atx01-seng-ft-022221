@@ -57,4 +57,4 @@ def return_string_array(array)
 end
 end
 
-puts return_string_array(numstring)  
+return_string_array(numstring)  
