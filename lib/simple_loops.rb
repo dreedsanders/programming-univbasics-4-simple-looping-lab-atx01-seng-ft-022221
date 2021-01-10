@@ -46,7 +46,7 @@ def loop_message_n_times(message)
  
 output_array(quote)
 
-numstring = [5, 4, 3, 2, 1] 
+numstring = [5, 2, 1] 
 
 def return_string_array(array)
   counter = 0 
