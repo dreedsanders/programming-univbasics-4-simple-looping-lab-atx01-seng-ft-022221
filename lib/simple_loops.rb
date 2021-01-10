@@ -53,7 +53,7 @@ def return_string_array(array)
   count = 0 
   while count < array.length do
     array[count].to_s
-    counter += 1 
+    count += 1 
   end
 end
 
