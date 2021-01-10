@@ -1,3 +1,8 @@
+ 
+ 
+ 
+ 
+ 
  quote = ["Be yourself;", "everyone else is already taken.", "-Oscar Wilde"]
  
  def output_array(array)
