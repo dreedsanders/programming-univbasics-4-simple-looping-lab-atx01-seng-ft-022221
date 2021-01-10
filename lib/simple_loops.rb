@@ -23,15 +23,15 @@ def loop_message_n_times(message, limit)
  
  puts loop_message_n_times(message_1, 5)
  
- def loop_message_n_times(message)
-  num = 0 
-   while (num) < 10 
+ def loop_message_n_times(message, limit)
+  count = 0 
+   while count < limit
    puts message
-   num += 1 
+   count += 1 
  end
  end
  
- puts loop_message_n_times(message_2)
+ puts loop_message_n_times(message_2, 10)
  
  quote = ["Be yourself;", "everyone else is already taken.", "-Oscar Wilde"]
  
