@@ -14,7 +14,7 @@ message_1 = "Hello Moon."
 message_2 = "Hello Red Balloon"
 
 def loop_message_n_times(message)
-  
+  num = 0 
    while (num) < 5 
    puts message
    num += 1 
