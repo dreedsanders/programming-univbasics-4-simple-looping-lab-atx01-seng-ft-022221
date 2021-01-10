@@ -39,7 +39,11 @@ def loop_message_n_times(message)
    counter = 0 
    while array(counter)
    puts array(counter)
-   counter +=1
+   counter +=1 
+ end
+ end
+ 
+ puts output_array(array_1)
    
  
   
