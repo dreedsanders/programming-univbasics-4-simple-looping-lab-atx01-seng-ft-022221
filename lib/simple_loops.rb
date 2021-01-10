@@ -35,7 +35,9 @@ def loop_message_n_times(message)
  
  array_1 = ["Be yourself;", "everyone else is already taken.", "-Oscar Wilde"]
  
- def output_array
+ def output_array(array)
+   counter = 0 
+   
    
  
   
