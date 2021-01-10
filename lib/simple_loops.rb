@@ -21,6 +21,6 @@ def loop_message_n_times(message)(num)
  end
  end
  
- puts loop_message_n_times(message_1)(5)
+ puts loop_message_n_times(message_1)(0)
  
   
