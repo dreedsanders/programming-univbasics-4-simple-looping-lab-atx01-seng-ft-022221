@@ -33,6 +33,9 @@ def loop_message_n_times(message)
  
  puts loop_message_n_times(message_2)
  
- array_1 = ["Be yourself;", "Ever"]
+ array_1 = ["Be yourself;", "everyone else is already taken.", "-Oscar Wilde"]
+ 
+ def output_array
+   
  
   
