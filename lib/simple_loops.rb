@@ -33,7 +33,7 @@ def loop_message_n_times(message)
  
  puts loop_message_n_times(message_2)
  
- array_1 = ["Be yourself;", "everyone else is already taken.", "-Oscar Wilde"]
+ quote = ["Be yourself;", "everyone else is already taken.", "-Oscar Wilde"]
  
  def output_array(array)
    counter = 0 
@@ -44,7 +44,7 @@ def loop_message_n_times(message)
  end
  end
  
- puts output_array(array_1)
+ puts output_array(quote)
    
  
   
