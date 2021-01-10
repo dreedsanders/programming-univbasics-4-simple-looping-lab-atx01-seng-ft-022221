@@ -57,5 +57,5 @@ def return_string_array(array)
   end
 end
 
-return_string_array(numstring)
+puts return_string_array(numstring)
   
