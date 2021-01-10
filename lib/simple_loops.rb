@@ -23,4 +23,14 @@ def loop_message_n_times(message)
  
  puts loop_message_n_times(message_1)
  
+ def loop_message_n_times(message)
+  num = 0 
+   while (num) < 10 
+   puts message
+   num += 1 
+ end
+ end
+ 
+ puts loop_message_n_times(message_2)
+ 
   
