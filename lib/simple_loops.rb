@@ -46,12 +46,12 @@ def loop_message_n_times(message)
  
 output_array(quote)
 
-numstring = [5, 4, 3, 2, 1].to_s 
+numstring = [5, 4, 3, 2, 1] 
 
 def return_string_array(array)
   counter = 0 
   while array[counter] do
-    puts array[counter]
+    puts (array).to_s[counter]
     counter += 1 
   end
 end
